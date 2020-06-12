@@ -1,0 +1,65 @@
+h1 {
+  color:white;
+  text-align:center;
+  font-size:80px;
+  font-family: 'IM Fell Great Primer SC', serif;
+}
+
+p {
+  color:white;
+  text-align:center;
+  font-family: 'IM Fell Great Primer SC', serif;
+}
+
+p1 {
+  color:black;
+  text-align:center;
+  font-family: 'IM Fell Great Primer SC', serif;
+
+}
+
+divC {
+  column-count:4;
+
+
+}
+
+divJ {
+  column-count:2;
+
+}
+
+.jumbotron {
+  background:#cfa7a5;
+
+
+}
+
+.container {
+  max-width:600px;
+  padding:50px;
+  margin:auto;
+  left:33%;
+  right:33%;
+  background-color:#9c4644;
+  text-align:center;
+  font-family: 'IM Fell Great Primer SC', serif;
+  border-radius: 25px;
+
+
+}
+
+body {
+  background-color:#402524;
+
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+
+.img {
+  margin:auto;
+
+}
